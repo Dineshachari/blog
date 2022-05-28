@@ -2,7 +2,7 @@
 title = "Dinesh Achari's Blog"
 author = "Dinesh Achari"
 #copyright = "2022"
-description = "Content on Web3, Solidity, Javascript, Flutter & Dart. Even more content on ADHD, Mental Health, Climate Change & Nature"
+description = "Writes content on Web3, Solidity, Javascript, Flutter & Dart. <br> Even more content on Adhd, <br> Mental Health, Climate Change & Nature."
 profilePicture = "images/profile.png"
 keywords = ""
 favicon = "favicons/"
@@ -57,22 +57,17 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
 [[socialIcons]]
 icon = "fab fa-linkedin"
 title = "Linkedin"
-url = "https://de.linkedin.com/"
+url = "https://www.linkedin.com/in/dineshachari/"
 
 [[socialIcons]]
 icon = "fab fa-github"
 title = "GitHub"
-url = "https://github.com/lxndrblz/anatole/"
-
-[[socialIcons]]
-icon = "fab fa-instagram"
-title = "instagram"
-url = "https://www.instagram.com/"
+url = "https://github.com/Dineshachari/"
 
 [[socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
-url = "mailto:mail@example.com"
+url = "mailto:hello.dinesh@achari.xyz"
 
 [mermaid]
 # enable = true
