@@ -4,10 +4,11 @@
   weight = 100
   url = "/"
 
-  [[main]]
+ [[main]]
   name = "Posts"
   weight = 200
   identifier = "posts"
-  url = "/content/"
+  url = "/post/"
+
 
 
