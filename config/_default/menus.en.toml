@@ -8,6 +8,6 @@
   name = "Posts"
   weight = 200
   identifier = "posts"
-  url = "/post/"
+  url = "/content/"
 
 
