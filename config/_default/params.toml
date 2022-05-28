@@ -1,8 +1,8 @@
 
-title = "I'm Jane Doe"
-author = "Jane Doe"
-#copyright = "2020-2021"
-description = "Call me Jane"
+title = "Dinesh Achari's Blog"
+author = "Dinesh Achari"
+#copyright = "2022"
+description = "Content on Web3, Solidity, Javascript, Flutter & Dart"
 profilePicture = "images/profile.png"
 keywords = ""
 favicon = "favicons/"
