@@ -2,198 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dinesh Achari</title>
-    <link>https://example.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Dinesh Achari</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Mar 2022 21:47:41 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 May 2022 15:35:04 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Total Digital Break for 48 hours</title>
+      <link>http://localhost:1313/post/break/</link>
+      <pubDate>Sat, 28 May 2022 15:35:04 +0530</pubDate>
+      <guid>http://localhost:1313/post/break/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;After being unable to focus on any task at hand, being very irritated, lethargic, and uninterested to do anything, I could feel something was wrong. In a bid to understand my situation better I truned to my trusty savior GOOGLE. Not encouraging you to do so, if you do do, google more often than not is a doodoo but again YMMW.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Awards</title>
-      <link>https://example.com/awards/</link>
+      <link>http://localhost:1313/awards/</link>
       <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/awards/</guid>
-      
-        <description>Hugo Awards, an annual literary award for the best science fiction or fantasy works</description>
-      
+      <guid>http://localhost:1313/awards/</guid>
+      <description>&lt;p&gt;Hugo Award - from Wikipedia: &lt;a href=&#34;https://en.wikipedia.org/wiki/Hugo_Award&#34;&gt;Hugo Award&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;The Hugo Award is an annual literary award for the best science fiction or fantasy works and achievements of the previous year, given at the World Science Fiction Convention and chosen by its members. The Hugo is widely considered the premier award in science fiction. The award is administered by the World Science Fiction Society. It is named after Hugo Gernsback, the founder of the pioneering science fiction magazine Amazing Stories. Hugos were first given in 1953, at the 11th World Science Fiction Convention, and have been awarded every year since 1955.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Certifications</title>
-      <link>https://example.com/certifications/</link>
+      <link>http://localhost:1313/certifications/</link>
       <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/certifications/</guid>
-      
-        <description>Hugo Certifications</description>
-      
+      <guid>http://localhost:1313/certifications/</guid>
+      <description>&lt;h2 id=&#34;3-best-hugo-courses-training-classes--tutorials-online&#34;&gt;3 Best Hugo Courses, Training, Classes &amp;amp; Tutorials Online&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;“Migrate from WordPress to Hugo, Step by Step” Our Best Pick 2022&lt;/li&gt;&#xA;&lt;li&gt;Create a Static Site With Hugo 2021&lt;/li&gt;&#xA;&lt;li&gt;Créez votre site statique avec Hugo 2020&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
     </item>
-    
-    <item>
-      <title>The Notice Shortcode</title>
-      <link>https://example.com/post/notice-shortcode/</link>
-      <pubDate>Fri, 18 Mar 2022 21:47:41 +0000</pubDate>
-      
-      <guid>https://example.com/post/notice-shortcode/</guid>
-      
-        <description>The notice shortcode supports three different types of disclaimers. These are as following:</description>
-      
-    </item>
-    
-    <item>
-      <title>Series Part 2</title>
-      <link>https://example.com/post/series-part-2/</link>
-      <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/post/series-part-2/</guid>
-      
-        <description>A brief guide to how to setup series part 2</description>
-      
-    </item>
-    
-    <item>
-      <title>Series Part 1</title>
-      <link>https://example.com/post/series-part-1/</link>
-      <pubDate>Sat, 14 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/post/series-part-1/</guid>
-      
-        <description>A brief guide to how to setup series part 1</description>
-      
-    </item>
-    
-    <item>
-      <title>Redirect</title>
-      <link>https://example.com/post/redirect/</link>
-      <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/post/redirect/</guid>
-      
-        <description>Usage of redirectUrl</description>
-      
-    </item>
-    
-    <item>
-      <title>The Figure Shortcode</title>
-      <link>https://example.com/post/figure-shortcode/</link>
-      <pubDate>Sat, 13 Mar 2021 21:47:41 +0000</pubDate>
-      
-      <guid>https://example.com/post/figure-shortcode/</guid>
-      
-        <description>Hugo has figure shortcode built-in, so you can easily add figure captions or hyperlink rel attributes to images.</description>
-      
-    </item>
-    
     <item>
       <title></title>
-      <link>https://example.com/archives/</link>
+      <link>http://localhost:1313/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/archives/</guid>
-      
-        <description></description>
-      
+      <guid>http://localhost:1313/archives/</guid>
+      <description></description>
     </item>
-    
-    <item>
-      <title>Markdown Syntax Guide</title>
-      <link>https://example.com/post/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/post/markdown-syntax/</guid>
-      
-        <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
-      
-    </item>
-    
-    <item>
-      <title>Rich Content</title>
-      <link>https://example.com/post/rich-content/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/post/rich-content/</guid>
-      
-        <description>A brief description of Hugo Shortcodes</description>
-      
-    </item>
-    
-    <item>
-      <title>Placeholder Text</title>
-      <link>https://example.com/post/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/post/placeholder-text/</guid>
-      
-        <description>Lorem Ipsum Dolor Si Amet</description>
-      
-    </item>
-    
     <item>
       <title>Contact</title>
-      <link>https://example.com/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/contact/</guid>
-      
-        <description>Contact Page</description>
-      
+      <guid>http://localhost:1313/contact/</guid>
+      <description></description>
     </item>
-    
-    <item>
-      <title>Math Typesetting</title>
-      <link>https://example.com/post/math-typesetting/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/post/math-typesetting/</guid>
-      
-        <description>A brief guide to setup KaTeX</description>
-      
-    </item>
-    
-    <item>
-      <title>Emoji Support</title>
-      <link>https://example.com/post/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/post/emoji-support/</guid>
-      
-        <description>Guide to emoji usage in Hugo</description>
-      
-    </item>
-    
-    <item>
-      <title>Guide to Thumbnails in Hugo</title>
-      <link>https://example.com/post/image-test/</link>
-      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/post/image-test/</guid>
-      
-        <description>Guide to Thumbnails in Hugo</description>
-      
-    </item>
-    
     <item>
       <title>About</title>
-      <link>https://example.com/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/about/</guid>
-      
-        <description>Hugo, the world&#39;s fastest framework for building websites</description>
-      
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Written in Go, Hugo is an open source static site generator available under the &lt;a href=&#34;https://github.com/gohugoio/hugo/blob/master/LICENSE&#34;&gt;Apache License 2.0.&lt;/a&gt; Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://example.com/imprint/</link>
+      <link>http://localhost:1313/imprint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/imprint/</guid>
-      
-        <description>Legal Disclosure Information in accordance with the applicable law
-Jane Doe</description>
-      
+      <guid>http://localhost:1313/imprint/</guid>
+      <description>&lt;h1 id=&#34;legal-disclosure&#34;&gt;Legal Disclosure&lt;/h1&gt;&#xA;&lt;p&gt;Information in accordance with the applicable law&lt;/p&gt;&#xA;&lt;p&gt;Jane Doe&lt;br&gt;&#xA;Anatole Street 10&lt;br&gt;&#xA;2016 GoHugo&lt;br&gt;&#xA;Germany&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
