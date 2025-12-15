@@ -6,7 +6,19 @@
     <description>Recent content in Posts on Dinesh Achari</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 28 May 2022 15:35:04 +0530</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Dec 2025 19:55:00 +0530</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello From the Future</title>
+      <link>http://localhost:1313/post/hello-from-the-future/</link>
+      <pubDate>Mon, 15 Dec 2025 19:55:00 +0530</pubDate>
+      
+      <guid>http://localhost:1313/post/hello-from-the-future/</guid>
+      
+        <description>&lt;h2 id=&#34;we-are-back&#34;&gt;We are Back!&lt;/h2&gt;
+&lt;p&gt;This is a test post to confirm that the deployment pipeline is working correctly.&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>Total Digital Break for 48 hours</title>
       <link>http://localhost:1313/post/break/</link>

@@ -3,7 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-02-17T00:52:22+05:30</lastmod>
+    <lastmod>2025-12-15T19:55:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/hello-from-the-future/</loc>
+    <lastmod>2025-12-15T19:55:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/index/</loc>
+    <lastmod>2025-12-15T19:55:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/news/</loc>
+    <lastmod>2025-12-15T19:55:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2025-12-15T19:55:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-12-15T19:55:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/update/</loc>
+    <lastmod>2025-12-15T19:55:00+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/ai/</loc>
     <lastmod>2025-02-16T22:22:53+05:30</lastmod>
@@ -23,22 +41,13 @@
     <loc>http://localhost:1313/tags/programming/</loc>
     <lastmod>2025-02-16T22:22:53+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-02-16T22:22:53+05:30</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/tool/</loc>
     <lastmod>2025-02-16T22:22:53+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/digital-break/</loc>
     <lastmod>2022-05-28T15:35:04+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/index/</loc>
-    <lastmod>2022-05-28T15:35:04+05:30</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/mental-health/</loc>
-    <lastmod>2022-05-28T15:35:04+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/</loc>
     <lastmod>2022-05-28T15:35:04+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/self-care/</loc>
