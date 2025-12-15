@@ -2,39 +2,120 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Dinesh Achari</title>
-    <link>http://localhost:60386/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Dinesh Achari</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 28 May 2022 15:35:04 +0530</lastBuildDate>
-    <atom:link href="http://localhost:60386/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Feb 2025 22:22:53 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI</title>
+      <link>http://localhost:1313/tags/ai/</link>
+      <pubDate>Sun, 16 Feb 2025 22:22:53 +0530</pubDate>
+      
+      <guid>http://localhost:1313/tags/ai/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Growth</title>
+      <link>http://localhost:1313/tags/growth/</link>
+      <pubDate>Sun, 16 Feb 2025 22:22:53 +0530</pubDate>
+      
+      <guid>http://localhost:1313/tags/growth/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Link</title>
+      <link>http://localhost:1313/tags/link/</link>
+      <pubDate>Sun, 16 Feb 2025 22:22:53 +0530</pubDate>
+      
+      <guid>http://localhost:1313/tags/link/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>LLM</title>
+      <link>http://localhost:1313/tags/llm/</link>
+      <pubDate>Sun, 16 Feb 2025 22:22:53 +0530</pubDate>
+      
+      <guid>http://localhost:1313/tags/llm/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>http://localhost:1313/tags/programming/</link>
+      <pubDate>Sun, 16 Feb 2025 22:22:53 +0530</pubDate>
+      
+      <guid>http://localhost:1313/tags/programming/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tool</title>
+      <link>http://localhost:1313/tags/tool/</link>
+      <pubDate>Sun, 16 Feb 2025 22:22:53 +0530</pubDate>
+      
+      <guid>http://localhost:1313/tags/tool/</guid>
+      
+        <description></description>
+      
+    </item>
+    
     <item>
       <title>Digital-Break</title>
-      <link>http://localhost:60386/tags/digital-break/</link>
+      <link>http://localhost:1313/tags/digital-break/</link>
       <pubDate>Sat, 28 May 2022 15:35:04 +0530</pubDate>
-      <guid>http://localhost:60386/tags/digital-break/</guid>
-      <description></description>
+      
+      <guid>http://localhost:1313/tags/digital-break/</guid>
+      
+        <description></description>
+      
     </item>
+    
     <item>
       <title>Index</title>
-      <link>http://localhost:60386/tags/index/</link>
+      <link>http://localhost:1313/tags/index/</link>
       <pubDate>Sat, 28 May 2022 15:35:04 +0530</pubDate>
-      <guid>http://localhost:60386/tags/index/</guid>
-      <description></description>
+      
+      <guid>http://localhost:1313/tags/index/</guid>
+      
+        <description></description>
+      
     </item>
+    
     <item>
       <title>Mental-Health</title>
-      <link>http://localhost:60386/tags/mental-health/</link>
+      <link>http://localhost:1313/tags/mental-health/</link>
       <pubDate>Sat, 28 May 2022 15:35:04 +0530</pubDate>
-      <guid>http://localhost:60386/tags/mental-health/</guid>
-      <description></description>
+      
+      <guid>http://localhost:1313/tags/mental-health/</guid>
+      
+        <description></description>
+      
     </item>
+    
     <item>
       <title>Self-Care</title>
-      <link>http://localhost:60386/tags/self-care/</link>
+      <link>http://localhost:1313/tags/self-care/</link>
       <pubDate>Sat, 28 May 2022 15:35:04 +0530</pubDate>
-      <guid>http://localhost:60386/tags/self-care/</guid>
-      <description></description>
+      
+      <guid>http://localhost:1313/tags/self-care/</guid>
+      
+        <description></description>
+      
     </item>
+    
   </channel>
 </rss>

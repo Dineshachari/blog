@@ -4,8 +4,7 @@
     <title>Portfolio on Dinesh Achari</title>
     <link>http://localhost:1313/portfolio/</link>
     <description>Recent content in Portfolio on Dinesh Achari</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <atom:link href="http://localhost:1313/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="http://localhost:1313/portfolio/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

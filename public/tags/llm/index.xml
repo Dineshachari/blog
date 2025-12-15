@@ -4,16 +4,19 @@
     <title>LLM on Dinesh Achari</title>
     <link>http://localhost:1313/tags/llm/</link>
     <description>Recent content in LLM on Dinesh Achari</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 16 Feb 2025 22:22:53 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/llm/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Feb 2025 22:22:53 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/llm/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Getting Back Up Running - First Link Based Blog</title>
       <link>http://localhost:1313/getting-back-up-running/</link>
       <pubDate>Sun, 16 Feb 2025 22:22:53 +0530</pubDate>
+      
       <guid>http://localhost:1313/getting-back-up-running/</guid>
-      <description>&lt;p&gt;It&amp;rsquo;s been a while since i posted. I will be starting to post most frequently henceforth.&lt;/p&gt;</description>
+      
+        <description>&lt;p&gt;It&amp;rsquo;s been a while since i posted. I will be starting to post most frequently henceforth.&lt;/p&gt;</description>
+      
     </item>
+    
   </channel>
 </rss>

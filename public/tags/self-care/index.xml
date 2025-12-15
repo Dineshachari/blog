@@ -2,18 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Self-Care on Dinesh Achari</title>
-    <link>http://localhost:60386/tags/self-care/</link>
+    <link>http://localhost:1313/tags/self-care/</link>
     <description>Recent content in Self-Care on Dinesh Achari</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 28 May 2022 15:35:04 +0530</lastBuildDate>
-    <atom:link href="http://localhost:60386/tags/self-care/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 May 2022 15:35:04 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/self-care/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Total Digital Break for 48 hours</title>
-      <link>http://localhost:60386/post/break/</link>
+      <link>http://localhost:1313/post/break/</link>
       <pubDate>Sat, 28 May 2022 15:35:04 +0530</pubDate>
-      <guid>http://localhost:60386/post/break/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;After being unable to focus on any task at hand, being very irritated, lethargic, and uninterested to do anything, I could feel something was wrong. In a bid to understand my situation better I truned to my trusty savior GOOGLE. Not encouraging you to do so, if you do do, google more often than not is a doodoo but again YMMW.&lt;/p&gt;</description>
+      
+      <guid>http://localhost:1313/post/break/</guid>
+      
+        <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;After being unable to focus on any task at hand, being very irritated, lethargic, and uninterested to do anything, I could feel something was wrong. In a bid to understand my situation better I truned to my trusty savior GOOGLE. Not encouraging you to do so, if you do do, google more often than not is a doodoo but again YMMW.&lt;/p&gt;</description>
+      
     </item>
+    
   </channel>
 </rss>

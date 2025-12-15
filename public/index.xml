@@ -4,58 +4,102 @@
     <title>Dinesh Achari</title>
     <link>http://localhost:1313/</link>
     <description>Recent content on Dinesh Achari</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 28 May 2022 15:35:04 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 Feb 2025 00:52:22 +0530</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting Back Up Running - First Link Based Blog</title>
+      <link>http://localhost:1313/getting-back-up-running/</link>
+      <pubDate>Sun, 16 Feb 2025 22:22:53 +0530</pubDate>
+      
+      <guid>http://localhost:1313/getting-back-up-running/</guid>
+      
+        <description>&lt;p&gt;It&amp;rsquo;s been a while since i posted. I will be starting to post most frequently henceforth.&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>Total Digital Break for 48 hours</title>
       <link>http://localhost:1313/post/break/</link>
       <pubDate>Sat, 28 May 2022 15:35:04 +0530</pubDate>
+      
       <guid>http://localhost:1313/post/break/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;After being unable to focus on any task at hand, being very irritated, lethargic, and uninterested to do anything, I could feel something was wrong. In a bid to understand my situation better I truned to my trusty savior GOOGLE. Not encouraging you to do so, if you do do, google more often than not is a doodoo but again YMMW.&lt;/p&gt;</description>
+      
+        <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;After being unable to focus on any task at hand, being very irritated, lethargic, and uninterested to do anything, I could feel something was wrong. In a bid to understand my situation better I truned to my trusty savior GOOGLE. Not encouraging you to do so, if you do do, google more often than not is a doodoo but again YMMW.&lt;/p&gt;</description>
+      
     </item>
+    
     <item>
       <title>Awards</title>
       <link>http://localhost:1313/awards/</link>
       <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/awards/</guid>
-      <description>&lt;p&gt;Hugo Award - from Wikipedia: &lt;a href=&#34;https://en.wikipedia.org/wiki/Hugo_Award&#34;&gt;Hugo Award&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;The Hugo Award is an annual literary award for the best science fiction or fantasy works and achievements of the previous year, given at the World Science Fiction Convention and chosen by its members. The Hugo is widely considered the premier award in science fiction. The award is administered by the World Science Fiction Society. It is named after Hugo Gernsback, the founder of the pioneering science fiction magazine Amazing Stories. Hugos were first given in 1953, at the 11th World Science Fiction Convention, and have been awarded every year since 1955.&lt;/p&gt;</description>
+      
+        <description>Hugo Awards, an annual literary award for the best science fiction or fantasy works</description>
+      
     </item>
+    
     <item>
       <title>Certifications</title>
       <link>http://localhost:1313/certifications/</link>
       <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/certifications/</guid>
-      <description>&lt;h2 id=&#34;3-best-hugo-courses-training-classes--tutorials-online&#34;&gt;3 Best Hugo Courses, Training, Classes &amp;amp; Tutorials Online&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;“Migrate from WordPress to Hugo, Step by Step” Our Best Pick 2022&lt;/li&gt;&#xA;&lt;li&gt;Create a Static Site With Hugo 2021&lt;/li&gt;&#xA;&lt;li&gt;Créez votre site statique avec Hugo 2020&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+      
+        <description>Hugo Certifications</description>
+      
     </item>
+    
     <item>
       <title></title>
       <link>http://localhost:1313/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/archives/</guid>
-      <description></description>
+      
+        <description></description>
+      
     </item>
+    
     <item>
       <title>Contact</title>
       <link>http://localhost:1313/contact/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/contact/</guid>
-      <description></description>
+      
+        <description>Contact Page</description>
+      
     </item>
+    
     <item>
       <title>About</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;Written in Go, Hugo is an open source static site generator available under the &lt;a href=&#34;https://github.com/gohugoio/hugo/blob/master/LICENSE&#34;&gt;Apache License 2.0.&lt;/a&gt; Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&lt;/p&gt;</description>
+      
+        <description>Hugo, the world&#39;s fastest framework for building websites</description>
+      
     </item>
+    
     <item>
       <title></title>
       <link>http://localhost:1313/imprint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/imprint/</guid>
-      <description>&lt;h1 id=&#34;legal-disclosure&#34;&gt;Legal Disclosure&lt;/h1&gt;&#xA;&lt;p&gt;Information in accordance with the applicable law&lt;/p&gt;&#xA;&lt;p&gt;Jane Doe&lt;br&gt;&#xA;Anatole Street 10&lt;br&gt;&#xA;2016 GoHugo&lt;br&gt;&#xA;Germany&lt;/p&gt;</description>
+      
+        <description>&lt;h1 id=&#34;legal-disclosure&#34;&gt;Legal Disclosure&lt;/h1&gt;
+&lt;p&gt;Information in accordance with the applicable law&lt;/p&gt;
+&lt;p&gt;Jane Doe&lt;br&gt;
+Anatole Street 10&lt;br&gt;
+2016 GoHugo&lt;br&gt;
+Germany&lt;/p&gt;</description>
+      
     </item>
+    
   </channel>
 </rss>
